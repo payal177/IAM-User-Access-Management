@@ -1,0 +1,22 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "AllowReadOnlyS3",
+      "Effect": "Allow",
+      "Action": [
+        "s3:ListBucket",
+        "s3:GetObject"
+      ],
+      "Resource": "*"
+    },
+    {
+      "Sid": "DenyDeleteObjects",
+      "Effect": "Deny",
+      "Action": [
+        "s3:DeleteObject"
+      ],
+      "Resource": "*"
+    }
+  ]
+}
