@@ -56,6 +56,12 @@ The project follows the Principle of Least Privilege by assigning users only the
 Policy Name:
 Custom-S3-ReadOnly-NoDelete
 
+## Custom Policy JSON
+
+The custom IAM policy used in this project is available in the policies directory:
+
+policies/custom-s3-readonly-nodelete.json
+
 Purpose:
 
 * Allow users to list S3 buckets
