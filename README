@@ -129,3 +129,5 @@ Amazon S3 Resources
 ## Outcome
 
 Successfully implemented secure access control in AWS using IAM users, groups, managed policies, and custom policies while demonstrating the Principle of Least Privilege and role-based access management.
+
+
