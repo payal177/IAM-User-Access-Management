@@ -130,4 +130,6 @@ Amazon S3 Resources
 
 Successfully implemented secure access control in AWS using IAM users, groups, managed policies, and custom policies while demonstrating the Principle of Least Privilege and role-based access management.
 
+<img width="1357" height="384" alt="IAM_users" src="https://github.com/user-attachments/assets/5eb30185-34ac-4ee8-b863-6fba6109f3b6" />
+<img width="1359" height="314" alt="iam-groups" src="https://github.com/user-attachments/assets/051b93c3-031f-4298-82b8-c2b0fc6d299e" />
 
